@@ -4,9 +4,9 @@ title: CatMerge 개인정보처리방침 / Privacy Policy
 ---
 # CatMerge 개인정보처리방침
 
-시행일: 2026년 9월 12일
+시행일: 2026년 10월 16일
 
-이 방침은 CatMerge Android 게임(현재 앱 표시 이름: AnimalGame)에 적용됩니다. 개인정보 관련 문의는 CatMerge 운영자에게 **tatang.haus@gmail.com**으로 보내 주세요.
+이 방침은 CatMerge Android 및 iOS 게임(앱 표시 이름: 고양이가 쏟아진다 - 수박게임)에 적용됩니다. 개인정보 관련 문의는 CatMerge 운영자에게 **tatang.haus@gmail.com**으로 보내 주세요.
 
 ## 게임 데이터
 
@@ -16,7 +16,7 @@ title: CatMerge 개인정보처리방침 / Privacy Policy
 
 게임은 Google AdMob을 이용해 배너와 사용자가 선택하는 보상형 광고를 제공합니다. Google Mobile Ads SDK는 IP 주소(대략적인 위치 추정에 이용될 수 있음), 기기 및 광고 식별자, 광고·앱 상호작용, 성능·오류 진단 정보를 수집하고 Google 및 광고 서비스 제공자와 공유할 수 있습니다. 이러한 정보는 광고 제공, 광고 성과 측정, 분석 및 부정행위 방지에 사용됩니다. 광고 서비스는 기기 저장소, 쿠키 또는 유사 기술을 이용할 수 있습니다.
 
-Google User Messaging Platform(UMP)은 필요한 지역에서 광고 관련 동의를 요청하고 선택을 저장합니다. 동의가 필요한 처리에는 사용자의 선택을 적용합니다. 맞춤형 광고를 거부하더라도 비맞춤형·제한적 광고에 필요한 처리가 발생할 수 있습니다. 제공되는 경우 게임 설정의 '개인정보 설정'에서 선택을 변경하거나 동의를 철회할 수 있습니다. Android의 광고 개인정보 보호 설정에서도 광고 식별자 관련 선택을 관리할 수 있습니다.
+Google User Messaging Platform(UMP)은 필요한 지역에서 광고 관련 동의를 요청하고 선택을 저장합니다. 동의가 필요한 처리에는 사용자의 선택을 적용합니다. 맞춤형 광고를 거부하더라도 비맞춤형·제한적 광고에 필요한 처리가 발생할 수 있습니다. 제공되는 경우 게임 설정의 '개인정보 설정'에서 선택을 변경하거나 동의를 철회할 수 있습니다. Android 및 iOS의 광고 개인정보 보호 설정에서도 광고 식별자 관련 선택을 관리할 수 있습니다.
 
 Google의 처리 방식, 보관 및 국외 처리에 관한 자세한 내용은 [Google 개인정보처리방침](https://policies.google.com/privacy)과 [Google 서비스를 사용하는 사이트 또는 앱의 정보 이용](https://policies.google.com/technologies/partner-sites)을 확인해 주세요. 광고 제공 과정에서 정보가 사용자의 국가 외 서버에서 처리될 수 있습니다.
 
@@ -34,9 +34,9 @@ Google의 처리 방식, 보관 및 국외 처리에 관한 자세한 내용은 
 
 # CatMerge Privacy Policy
 
-Effective date: September 12, 2026
+Effective date: October 16, 2026
 
-This policy applies to the CatMerge Android game, currently displayed as AnimalGame. Contact the CatMerge operator at **tatang.haus@gmail.com** for privacy questions.
+This policy applies to the CatMerge Android and iOS game, displayed as 고양이가 쏟아진다 - 수박게임. Contact the CatMerge operator at **tatang.haus@gmail.com** for privacy questions.
 
 ## Game data
 
@@ -46,7 +46,7 @@ The game does not require an account. Game progress, scores, collection, quests,
 
 Google AdMob provides banners and optional rewarded ads. The Google Mobile Ads SDK may collect and share IP addresses (which may indicate approximate location), device and advertising identifiers, app/ad interactions and performance or diagnostic information with Google and advertising service providers for advertising, measurement, analytics and fraud prevention. These services may use device storage, cookies or similar technologies.
 
-Google's User Messaging Platform (UMP) requests consent where required and stores your choices. Where available, use Privacy settings in the game to change your choices or withdraw consent. Android advertising privacy settings also provide controls. Declining personalized advertising does not necessarily stop processing needed for non-personalized or limited ads.
+Google's User Messaging Platform (UMP) requests consent where required and stores your choices. Where available, use Privacy settings in the game to change your choices or withdraw consent. Android and iOS advertising privacy settings also provide controls. Declining personalized advertising does not necessarily stop processing needed for non-personalized or limited ads.
 
 See [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from partner sites and apps](https://policies.google.com/technologies/partner-sites) for its processing, retention and international transfer practices. Advertising data may be processed outside your country.
 
