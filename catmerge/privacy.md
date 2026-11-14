@@ -18,6 +18,8 @@ title: CatMerge 개인정보처리방침 / Privacy Policy
 
 Google User Messaging Platform(UMP)은 필요한 지역에서 광고 관련 동의를 요청하고 선택을 저장합니다. 동의가 필요한 처리에는 사용자의 선택을 적용합니다. 맞춤형 광고를 거부하더라도 비맞춤형·제한적 광고에 필요한 처리가 발생할 수 있습니다. 제공되는 경우 게임 설정의 '개인정보 설정'에서 선택을 변경하거나 동의를 철회할 수 있습니다. Android 및 iOS의 광고 개인정보 보호 설정에서도 광고 식별자 관련 선택을 관리할 수 있습니다.
 
+게임은 Google Firebase Remote Config와 Firebase Installations를 이용해 배너 광고 표시 여부 같은 앱 설정값을 받아옵니다. 이 과정에서 Firebase 설치 ID, IP 주소, 기기·앱 정보(앱 버전, 운영체제, 기기 모델)가 Google에 전송될 수 있으며, 설정값 제공과 서비스 안정성 유지에 사용됩니다. 게임은 Firebase Analytics와 Crashlytics를 사용하지 않습니다.
+
 Google의 처리 방식, 보관 및 국외 처리에 관한 자세한 내용은 [Google 개인정보처리방침](https://policies.google.com/privacy)과 [Google 서비스를 사용하는 사이트 또는 앱의 정보 이용](https://policies.google.com/technologies/partner-sites)을 확인해 주세요. 광고 제공 과정에서 정보가 사용자의 국가 외 서버에서 처리될 수 있습니다.
 
 ## 보관, 삭제 및 권리
@@ -47,6 +49,8 @@ The game does not require an account. Game progress, scores, collection, quests,
 Google AdMob provides banners and optional rewarded ads. The Google Mobile Ads SDK may collect and share IP addresses (which may indicate approximate location), device and advertising identifiers, app/ad interactions and performance or diagnostic information with Google and advertising service providers for advertising, measurement, analytics and fraud prevention. These services may use device storage, cookies or similar technologies.
 
 Google's User Messaging Platform (UMP) requests consent where required and stores your choices. Where available, use Privacy settings in the game to change your choices or withdraw consent. Android and iOS advertising privacy settings also provide controls. Declining personalized advertising does not necessarily stop processing needed for non-personalized or limited ads.
+
+The game uses Google Firebase Remote Config and Firebase Installations to receive app settings, such as whether banner ads are shown. This may send a Firebase installation ID, IP address and device/app information (app version, operating system, device model) to Google, which is used to deliver settings and keep the service reliable. The game does not use Firebase Analytics or Crashlytics.
 
 See [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from partner sites and apps](https://policies.google.com/technologies/partner-sites) for its processing, retention and international transfer practices. Advertising data may be processed outside your country.
 
